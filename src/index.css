@@ -21,22 +21,6 @@ body {
     margin: 0 auto;
 }
 
-.ui {
-    border: 2px solid darkgray;
-    margin-bottom: 1.25rem;
-}
-
-.comment {
-    margin-bottom: 1.325rem;
-    margin-left: 2.325rem;
-}
-
-.comments {
-    display: grid;
-    grid-template-columns: 6.125rem 2fr;
-    column-gap: 10px;
-}
-
 .add {
     display: flex;
 }

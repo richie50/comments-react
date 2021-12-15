@@ -10,8 +10,10 @@
         "faker": "^5.5.3",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
+        "react-jss": "^10.9.0",
         "react-redux": "^7.2.4",
-        "react-scripts": "3.4.3"
+        "react-scripts": "3.4.3",
+        "theming": "^3.3.0"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -33,5 +35,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "devDependencies": {
+        "redux-devtools-extension": "^2.13.9"
     }
 }
